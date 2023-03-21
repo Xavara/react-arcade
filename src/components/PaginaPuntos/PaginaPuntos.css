@@ -1,0 +1,9 @@
+.pagina_puntos_img {
+  height: 40px;
+  cursor: pointer;
+  width: 40px;
+}
+
+.pagina_puntos_img_rotate{
+    transform: rotate(180deg);
+}
